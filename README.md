@@ -1,5 +1,5 @@
 # RSAEncryption
-this app is developed to understand RSA
+this app is developed to understand Asymmetric Encryption
 
 enjoy your code
 
